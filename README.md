@@ -13,3 +13,8 @@ yarn install
 ```
 yarn test
 ```
+
+## Get Test Coverage Report
+```
+yarn test --coverage
+```
